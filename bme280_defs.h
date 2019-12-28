@@ -127,6 +127,7 @@
 
 /**\name BME280 chip identifier */
 #define BME280_CHIP_ID                    UINT8_C(0x60)
+#define BME280_CHIP_ID_CHINA              UINT8_C(0x58)
 
 /**\name Register Address */
 #define BME280_CHIP_ID_ADDR               UINT8_C(0xD0)
